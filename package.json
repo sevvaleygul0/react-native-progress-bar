@@ -1,17 +1,16 @@
 {
   "name": "react-native-progress-bar",
   "version": "1.0.0",
-  "description": "Extremely easy to create a React Native Component Library with both Stateful and Functional Component Examples.",
+  "description": "Customizable React Native Progress Bar",
   "main": "./build/dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/WrathChaos/react-native-typescript-library-starter.git"
+    "url": "git+ssh://git@github.com/sevvaleygul0/react-native-progress-bar.git"
   },
-  "author": "FreakyCoder <kurayogun@gmail.com>",
+  "author": "Sevval Eygul <sevvalleygull@gmail.com>",
   "license": "MIT",
-  "homepage": "https://www.freakycoder.com",
   "bugs": {
-    "url": "https://github.com/WrathChaos/react-native-typescript-library-starter/issues"
+    "url": "https://github.com/sevvaleygul0/react-native-progress-bar/issues"
   },
   "keywords": [
     "react",
